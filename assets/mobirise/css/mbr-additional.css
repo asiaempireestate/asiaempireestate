@@ -716,7 +716,7 @@ section.lazy-placeholder:after {
 .cid-s2BYsYMmup {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/fffff-18-1920x2399.jpeg");
+  background-image: url("../../../assets/images/fffff-19-1920x2399.jpeg");
 }
 @media (min-width: 992px) {
   .cid-s2BYsYMmup .mbr-figure {
@@ -1612,6 +1612,10 @@ section.lazy-placeholder:after {
 .cid-s22ACspKmg .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s22ACspKmg .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s22ACspKmg .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s22ACspKmg .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s22ACspKmg .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1705,6 +1709,10 @@ section.lazy-placeholder:after {
   .cid-s22ACspKmg .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s22ACspKmg .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s22ACspKmg .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s22ACspKmg .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s22ACspKmg .navbar-collapse.collapsing .navbar-buttons,
   .cid-s22ACspKmg .navbar-collapse.show .navbar-buttons {
@@ -2116,6 +2124,10 @@ section.lazy-placeholder:after {
 .cid-s230CokuHY .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s230CokuHY .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s230CokuHY .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s230CokuHY .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s230CokuHY .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2209,6 +2221,10 @@ section.lazy-placeholder:after {
   .cid-s230CokuHY .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s230CokuHY .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s230CokuHY .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s230CokuHY .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s230CokuHY .navbar-collapse.collapsing .navbar-buttons,
   .cid-s230CokuHY .navbar-collapse.show .navbar-buttons {
@@ -2552,6 +2568,10 @@ section.lazy-placeholder:after {
 .cid-s23ywCcP3o .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s23ywCcP3o .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s23ywCcP3o .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s23ywCcP3o .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s23ywCcP3o .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2645,6 +2665,10 @@ section.lazy-placeholder:after {
   .cid-s23ywCcP3o .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s23ywCcP3o .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s23ywCcP3o .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s23ywCcP3o .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s23ywCcP3o .navbar-collapse.collapsing .navbar-buttons,
   .cid-s23ywCcP3o .navbar-collapse.show .navbar-buttons {
@@ -3109,6 +3133,10 @@ section.lazy-placeholder:after {
 .cid-s284ewO8uR .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s284ewO8uR .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s284ewO8uR .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s284ewO8uR .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s284ewO8uR .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3202,6 +3230,10 @@ section.lazy-placeholder:after {
   .cid-s284ewO8uR .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s284ewO8uR .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s284ewO8uR .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s284ewO8uR .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s284ewO8uR .navbar-collapse.collapsing .navbar-buttons,
   .cid-s284ewO8uR .navbar-collapse.show .navbar-buttons {
@@ -3689,6 +3721,10 @@ section.lazy-placeholder:after {
 .cid-s287Yl3P9h .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s287Yl3P9h .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s287Yl3P9h .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s287Yl3P9h .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s287Yl3P9h .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3782,6 +3818,10 @@ section.lazy-placeholder:after {
   .cid-s287Yl3P9h .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s287Yl3P9h .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s287Yl3P9h .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s287Yl3P9h .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s287Yl3P9h .navbar-collapse.collapsing .navbar-buttons,
   .cid-s287Yl3P9h .navbar-collapse.show .navbar-buttons {
@@ -4269,6 +4309,10 @@ section.lazy-placeholder:after {
 .cid-s28bNIIUTI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-s28bNIIUTI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-s28bNIIUTI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-s28bNIIUTI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s28bNIIUTI .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4362,6 +4406,10 @@ section.lazy-placeholder:after {
   .cid-s28bNIIUTI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s28bNIIUTI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-s28bNIIUTI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-s28bNIIUTI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-s28bNIIUTI .navbar-collapse.collapsing .navbar-buttons,
   .cid-s28bNIIUTI .navbar-collapse.show .navbar-buttons {
